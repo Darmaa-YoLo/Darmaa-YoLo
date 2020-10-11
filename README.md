@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darmaa-yolo" alt="darmaa-yolo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/darambazar88" target="blank"><img src="https://img.shields.io/twitter/follow/darambazar88?logo=twitter&style=for-the-badge" alt="darambazar88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/darambazar_88" target="blank"><img src="https://img.shields.io/twitter/follow/darambazar_88?logo=twitter&style=for-the-badge" alt="darambazar_88" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Kotlin, Swift, ExpressJS**
 
@@ -15,7 +15,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/darambazar_88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="darambazar88" height="30" width="40" /></a>
+<a href="https://twitter.com/darambazar_88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="darambazar_88" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9602985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9602985" height="30" width="40" /></a>
 <a href="https://fb.com/naranbaatar.darambazar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naranbaatar.darambazar" height="30" width="40" /></a>
 <a href="https://instagram.com/darmaa_110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="darmaa_110" height="30" width="40" /></a>
